@@ -31,5 +31,5 @@ Kunal Khatri - Co Founder
 ## 🛠️ Developer Setup (How to Run This Site Locally)
 If you want to view or test changes to the website on your local machine:
 
- **Clone the repository:**
+ **Clone the repository**
   
