@@ -2,7 +2,7 @@
 
 Welcome to the official repository for the **StockRise** live webpage. 
 
-🌐 **Live Site:** 
+🌐 **Live Site:** https://stockrise.in
 
 ---
 
